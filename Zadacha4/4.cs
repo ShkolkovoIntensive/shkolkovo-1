@@ -13,7 +13,6 @@ namespace zadacha4
             int b = int.Parse(b1);
             int c = int.Parse(c1);
            
-
             int D = b * b - 4 * a * c;
             
             if (D<0)
