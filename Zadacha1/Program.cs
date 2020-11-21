@@ -8,7 +8,8 @@ namespace shkolkovo
         {
             Console.Write("Write your name: ");             
             string x = Console.ReadLine();
-            Console.WriteLine("Hello, {0}", x);
+            Console.WriteLine("Hello, k{0}", x);
+
         }
     }
 }

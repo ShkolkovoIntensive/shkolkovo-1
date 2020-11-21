@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Миша\\Школково\\shkolkovo\\Zadacha2\\zadacha2.csproj": {}
+    "C:\\Users\\Миша\\Школково\\Shkolkovo\\Zadacha2\\zadacha2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Миша\\Школково\\shkolkovo\\Zadacha2\\zadacha2.csproj": {
+    "C:\\Users\\Миша\\Школково\\Shkolkovo\\Zadacha2\\zadacha2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Миша\\Школково\\shkolkovo\\Zadacha2\\zadacha2.csproj",
+        "projectUniqueName": "C:\\Users\\Миша\\Школково\\Shkolkovo\\Zadacha2\\zadacha2.csproj",
         "projectName": "zadacha2",
-        "projectPath": "C:\\Users\\Миша\\Школково\\shkolkovo\\Zadacha2\\zadacha2.csproj",
+        "projectPath": "C:\\Users\\Миша\\Школково\\Shkolkovo\\Zadacha2\\zadacha2.csproj",
         "packagesPath": "C:\\Users\\Миша\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Миша\\Школково\\shkolkovo\\Zadacha2\\obj\\",
+        "outputPath": "C:\\Users\\Миша\\Школково\\Shkolkovo\\Zadacha2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Миша\\AppData\\Roaming\\NuGet\\NuGet.Config",
