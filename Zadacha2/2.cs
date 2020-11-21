@@ -16,7 +16,7 @@ namespace shkolkovo
             else if (success)
                 { Console.WriteLine("Result: {0}", c / d); }
             else
-            { Console.WriteLine("Input the number"); }
+            { Console.WriteLine("Input the number:"); }
 
         }
     }

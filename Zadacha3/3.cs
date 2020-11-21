@@ -6,8 +6,7 @@ namespace zadacha3
     {
         static void Main(string[] args)
         {
-            char c = (char) Console.Read();
-            
+            char c = (char) Console.Read();            
             c++;
             Console.WriteLine("Next char is {0} ", c);
         }
