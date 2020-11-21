@@ -1,0 +1,13 @@
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\bin\Debug\netcoreapp3.1\zadacha1.exe
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\bin\Debug\netcoreapp3.1\zadacha1.deps.json
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\bin\Debug\netcoreapp3.1\zadacha1.runtimeconfig.json
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\bin\Debug\netcoreapp3.1\zadacha1.runtimeconfig.dev.json
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\bin\Debug\netcoreapp3.1\zadacha1.dll
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\bin\Debug\netcoreapp3.1\zadacha1.pdb
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.csprojAssemblyReference.cache
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.AssemblyInfoInputs.cache
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.AssemblyInfo.cs
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.dll
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.pdb
+C:\Users\Миша\Школково\shkolkovo\Zadacha1\obj\Debug\netcoreapp3.1\zadacha1.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Миша\Школково\shk2\bin\Debug\netcoreapp3.1\shk2.exe
+C:\Users\Миша\Школково\shk2\bin\Debug\netcoreapp3.1\shk2.deps.json
+C:\Users\Миша\Школково\shk2\bin\Debug\netcoreapp3.1\shk2.runtimeconfig.json
+C:\Users\Миша\Школково\shk2\bin\Debug\netcoreapp3.1\shk2.runtimeconfig.dev.json
+C:\Users\Миша\Школково\shk2\bin\Debug\netcoreapp3.1\shk2.dll
+C:\Users\Миша\Школково\shk2\bin\Debug\netcoreapp3.1\shk2.pdb
+C:\Users\Миша\Школково\shk2\obj\Debug\netcoreapp3.1\shk2.AssemblyInfoInputs.cache
+C:\Users\Миша\Школково\shk2\obj\Debug\netcoreapp3.1\shk2.AssemblyInfo.cs
+C:\Users\Миша\Школково\shk2\obj\Debug\netcoreapp3.1\shk2.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Школково\shk2\obj\Debug\netcoreapp3.1\shk2.dll
+C:\Users\Миша\Школково\shk2\obj\Debug\netcoreapp3.1\shk2.pdb
+C:\Users\Миша\Школково\shk2\obj\Debug\netcoreapp3.1\shk2.genruntimeconfig.cache

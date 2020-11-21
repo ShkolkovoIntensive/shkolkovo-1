@@ -1,0 +1,13 @@
+C:\Users\Миша\Школково\shkolkovo\bin\Debug\netcoreapp3.1\shkolkovo.exe
+C:\Users\Миша\Школково\shkolkovo\bin\Debug\netcoreapp3.1\shkolkovo.deps.json
+C:\Users\Миша\Школково\shkolkovo\bin\Debug\netcoreapp3.1\shkolkovo.runtimeconfig.json
+C:\Users\Миша\Школково\shkolkovo\bin\Debug\netcoreapp3.1\shkolkovo.runtimeconfig.dev.json
+C:\Users\Миша\Школково\shkolkovo\bin\Debug\netcoreapp3.1\shkolkovo.dll
+C:\Users\Миша\Школково\shkolkovo\bin\Debug\netcoreapp3.1\shkolkovo.pdb
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.csprojAssemblyReference.cache
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.AssemblyInfoInputs.cache
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.AssemblyInfo.cs
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.csproj.CoreCompileInputs.cache
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.dll
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.pdb
+C:\Users\Миша\Школково\shkolkovo\obj\Debug\netcoreapp3.1\shkolkovo.genruntimeconfig.cache
