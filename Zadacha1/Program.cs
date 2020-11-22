@@ -4,11 +4,11 @@ namespace shkolkovo
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Console.Write("Write your name: ");             
-            string x = Console.ReadLine();
-            Console.WriteLine("Hello, {0}", x);
+            var name = Console.ReadLine();
+            Console.WriteLine($"Hello, {name}");
         }
     }
 }
