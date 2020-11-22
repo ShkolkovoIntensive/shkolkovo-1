@@ -5,28 +5,37 @@ namespace zadacha4
     {
         static void Main(string[] args)
         {
-            int a = Convert.ToInt32(Console.ReadLine());
-            int b = Convert.ToInt32(Console.ReadLine());
-            int c = Convert.ToInt32(Console.ReadLine());
+            var a = TryGetNumber("A");
+            var b = TryGetNumber("B");
+            var c = TryGetNumber("C");
 
+            // Лучше сделать свой Exception.
+            if (a == 0) throw new Exception("The coefficient A cannot be zero in a quadratic equation.");
 
-           
-            int D = b * b - 4 * a * c;
-            
-            if (D<0)
-                { Console.WriteLine("No roots"); }
-            else if (D==0)
-                {
-                double x = -1 * b / (2 * a);
-                Console.WriteLine("Root x = {0}", x);
+            var d = b * b - 4 * a * c;
+
+            if (d <= 0)
+            {
+                var x = -b / (2.0 * a);
+                Console.WriteLine(d < 0 ? "No roots." : $"X = {x}.");
             }
             else
-            { 
-                    double x1 = (-1 * b  + Math.Sqrt(D))/(2*a);
-                    double x2 = (-1 * b - Math.Sqrt(D)) / (2 * a);
-                Console.WriteLine("First root x1 = {0}; Second root x2 = {1}", x1, x2); 
-            } 
+            {
+                var x1 = (-b + Math.Sqrt(d)) / (2.0 * a);
+                var x2 = (-b - Math.Sqrt(d)) / (2.0 * a);
+                Console.WriteLine($"X1 = {x1}.\nX2 = {x2}.");
+            }
 
+            int TryGetNumber(string msg)
+            {
+                Console.Write($"Enter the coefficient {msg}: ");
+                var value = Console.ReadLine();
+
+                if (int.TryParse(value, out var number) == false)
+                    throw new FormatException("You entered incorrect data!");
+
+                return number;
+            }
         }
     }
 }
