@@ -6,9 +6,10 @@ namespace zadacha3
     {
         static void Main(string[] args)
         {
-            char c = (char) Console.Read();            
-            c++;
-            Console.WriteLine("Next char is {0} ", c);
+            Console.Write("Enter a symbol: ");
+            var letter = Console.Read();
+            var nextLetter = (char)(letter + 1);
+            Console.WriteLine($"The next character is {nextLetter}");
         }
     }
 }
