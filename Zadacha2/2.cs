@@ -1,4 +1,5 @@
-﻿using System;
+using System;
+using System.Globalization;
 
 namespace shkolkovo
 {
@@ -6,18 +7,23 @@ namespace shkolkovo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Write two numbers, then first will be divided on second ");
-            string a = Console.ReadLine();
-            string b = Console.ReadLine();
-            
-            bool success = double.TryParse(a, out double c) & double.TryParse(b, out double d);
-            if (d==0)
-            { Console.WriteLine("You can't divide by zero"); }
-            else if (success)
-                { Console.WriteLine("Result: {0}", c / d); }
-            else
-            { Console.WriteLine("Input the number:"); }
+            var dividend = TryGetDoubleNumber("divisible value");
+            var divider  = TryGetDoubleNumber("divisor");
 
+            Console.WriteLine(divider == 0 ? "You can't divide by zero!" : $"Result: {dividend / divider}");
+
+            double TryGetDoubleNumber(string msg)
+            {
+                Console.Write($"Enter the {msg}: ");
+                var value = Console.ReadLine().Trim().Replace(',', '.');
+                var parseResult = 
+                    double.TryParse(value, NumberStyles.Any, CultureInfo.InvariantCulture, out var number);
+
+                if (parseResult == false)
+                    throw new FormatException("You entered incorrect data!");
+
+                return number;
+            }
         }
     }
 }
